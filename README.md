@@ -1,3 +1,3 @@
 # Moscord Coding Challenge
 
-Please see all coding challenge answers in App.js
+Please see all coding challenges answers in App.js
